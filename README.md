@@ -61,7 +61,7 @@ Python-Pandas
 Overall Default Rate:
 The overall default rate across all loan applications is 24.29%.
 
-1. Credit Score
+1. Credit Score(View CR score Default rate Bar chart.jpg)
    
 Highest Risk Segment: 
 
@@ -72,7 +72,7 @@ Lower Risk Segments:
 Default rates significantly decrease with higher credit scores: 600 649 (29.03%), 650 699 (28.00%), 700 749 (16.28%), and 750+ (11.69%).
 
 
-2. Debt-to-Income (DTI) Ratio:
+2. Debt-to-Income (DTI) Ratio:(View HERE)
    
 Relationship:
 
@@ -80,7 +80,7 @@ There is a clear relationship between DTI and default likelihood.
 
 Borrowers with a DTI of 45%+ exhibit a significantly higher default rate of 39.58%, compared to lower DTI ranges (e.g., 0 15% at 21.05%, 16 25% at 24.81%).
 
-3. Loan Purpose:
+3. Loan Purpose:(View HERE)
    
 Highest Risk Purposes: 
 
