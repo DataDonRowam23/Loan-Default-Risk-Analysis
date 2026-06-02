@@ -52,7 +52,7 @@ Identified which numeric variables (credit score, DTI, income, loan amount, inte
 Built charts showing default rate by credit score range, a scatter plot of DTI vs. default status, and a bar chart comparing loan purposes.
 Outcomes
 
-#Tech-Stack
+# Tech-Stack:
 
 Python-Pandas
 
@@ -90,6 +90,17 @@ Average Loan Amounts (Defaulted vs. Non-Defaulted): For some high-risk purposes,
 
 This suggests that higher loan amounts for specific purposes may be a contributing factor to default.
 
+4. Employment Status and Years Employed:
+
+Employment Status:
+While there are variations, all employment statuses show significant default rates (ranging from 22.73% for 'Contract' to 27.69% for 'Part-Time'). 
+
+There isn't a stark difference between employment types, suggesting that employment *status alone* might not be the strongest predictor of default compared to other factors like credit score.
+
+Years Employed:
+
+Borrowers with less than 2 years of employment have a default rate of **34.52% (n=84), which is notably higher than the overall default rate of 24.29%.
+
 # Recommendations:
 
 1. Implement a minimum credit score threshold of 700. Loans to borrowers with credit scores below 700 should be subject to stricter scrutiny or additional qualifying criteria, given the notable increase in default rates below this threshold.
@@ -97,3 +108,9 @@ This suggests that higher loan amounts for specific purposes may be a contributi
 2. Set a maximum DTI threshold of 45%. Applicants with DTI ratios exceeding 45% should generally be declined, or at minimum, require extensive additional risk mitigation factors.
    
 3. Apply stricter underwriting standards or higher interest rates for loans purposed for Wedding, Home Improvement, Education, Debt Consolidation, and Medical Expenses, especially when the loan amount is higher than the average for that purpose.
+   
+4. Years Employed Threshold:
+ 
+Implement a minimum employment history requirement, perhaps requiring at least 2 years of continuous employment for standard loan      approvals.
+
+Applicants with less than 2 years of employment should undergo enhanced risk assessment, potentially facing stricter eligibility criteria, lower loan amounts, or higher interest rates due to their significantly elevated default risk.
