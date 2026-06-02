@@ -61,7 +61,7 @@ Python-Pandas
 Overall Default Rate:
 The overall default rate across all loan applications is 24.29%.
 
-1. Credit Score(View CR score Default rate Bar chart.jpg)
+1. Credit Score(View [HERE](https://github.com/DataDonRowam23/Loan-Default-Risk-Analysis/blob/main/CR%20score%20Default%20rate%20Bar%20chart.jpg))
    
 Highest Risk Segment: 
 
