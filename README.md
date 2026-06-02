@@ -72,7 +72,7 @@ Lower Risk Segments:
 Default rates significantly decrease with higher credit scores: 600 649 (29.03%), 650 699 (28.00%), 700 749 (16.28%), and 750+ (11.69%).
 
 
-2. Debt-to-Income (DTI) Ratio:(View HERE)
+2. Debt-to-Income (DTI) Ratio:(View [HERE](https://github.com/DataDonRowam23/Loan-Default-Risk-Analysis/blob/main/Default%20DTI%20scatter%20plot.jpg))
    
 Relationship:
 
