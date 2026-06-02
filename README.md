@@ -56,6 +56,8 @@ Outcomes
 
 Python-Pandas
 
+The whole project workflow steps of code can be accessed [HERE](https://github.com/DataDonRowam23/Loan-Default-Risk-Analysis/blob/main/Loan_Default_Risk_Analysis.ipynb)
+
 # Insights:
 
 Overall Default Rate:
