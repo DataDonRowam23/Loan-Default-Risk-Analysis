@@ -109,8 +109,4 @@ Borrowers with less than 2 years of employment have a default rate of **34.52% (
    
 3. Apply stricter underwriting standards or higher interest rates for loans purposed for Wedding, Home Improvement, Education, Debt Consolidation, and Medical Expenses, especially when the loan amount is higher than the average for that purpose.
    
-4. Years Employed Threshold:
- 
-Implement a minimum employment history requirement, perhaps requiring at least 2 years of continuous employment for standard loan      approvals.
-
-Applicants with less than 2 years of employment should undergo enhanced risk assessment, potentially facing stricter eligibility criteria, lower loan amounts, or higher interest rates due to their significantly elevated default risk.
+4. Years Employed Threshold: Implement a minimum employment history requirement, perhaps requiring at least 2 years of continuous employment for standard loan approvals. Applicants with less than 2 years of employment should undergo enhanced risk assessment, potentially facing stricter eligibility criteria, lower loan amounts, or higher interest rates due to their significantly elevated default risk.
