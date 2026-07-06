@@ -73,7 +73,8 @@ The whole project workflow steps of code can be accessed [HERE](https://github.c
 Overall Default Rate:
 The overall default rate across all loan applications is 24.29%.
 
-1. Credit Score(View [HERE](https://github.com/DataDonRowam23/Loan-Default-Risk-Analysis/blob/main/CR%20score%20Default%20rate%20Bar%20chart.jpg))
+1. Credit Score
+   ![Bar Chart](https://github.com[username]/[repository]/raw/[branch]/Bar%20Chart.png)
    
 Highest Risk Segment: 
 
