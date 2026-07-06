@@ -1,3 +1,8 @@
+# Business Value Summary"
+
+
+This project simulates how a lending institution can save up to 12% in losses by enforcing predictive risk thresholds.
+
 # Loan-Default-Risk-Analysis
 In this project, we explore borrower demographics, loan characteristics, and repayment outcomes to identify the key risk factors that predict loan defaults. 
 
@@ -11,13 +16,18 @@ In this project, I explore borrower demographics, loan characteristics, and repa
 
 The project addresses about the rising default rate on personal loans and gives data-driven insights to improve the underwriting process.
 
-#Table of Contents
+# Table of Contents
 
 Project background
+
 Project Description
+
 Workflow
+
 Tech-Stack
+
 Insights
+
 Recommendations
 
 
