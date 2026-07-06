@@ -94,7 +94,8 @@ There is a clear relationship between DTI and default likelihood.
 
 Borrowers with a DTI of 45%+ exhibit a significantly higher default rate of 39.58%, compared to lower DTI ranges (e.g., 0 15% at 21.05%, 16 25% at 24.81%).
 
-3. Loan Purpose:(View [HERE](https://github.com/DataDonRowam23/Loan-Default-Risk-Analysis/blob/main/Loan%20Purpose%20Default%20Stacked%20Bar%20Chart.jpg))
+3. Loan Purpose:
+   ![Stacked Bar Chart](https://github.com/DataDonRowam23/Loan-Default-Risk-Analysis/blob/main/Loan%20Purpose%20Default%20Stacked%20Bar%20Chart.png)
    
 Highest Risk Purposes: 
 
