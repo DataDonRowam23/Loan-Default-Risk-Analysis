@@ -74,7 +74,7 @@ Overall Default Rate:
 The overall default rate across all loan applications is 24.29%.
 
 1. Credit Score
-   ![Bar Chart](https://github.com[username]/[repository]/raw/[branch]/Bar%20Chart.png)
+   ![Bar Chart](Bar%20Chart.png)
    
 Highest Risk Segment: 
 
