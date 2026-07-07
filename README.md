@@ -4,7 +4,9 @@
 This project simulates how a lending institution can save up to 12% in losses by enforcing predictive risk thresholds.
 
 # Loan-Default-Risk-Analysis
-In this project, we explore borrower demographics, loan characteristics, and repayment outcomes to identify the key risk factors that predict loan defaults. 
+![Whatsapp Image](https://github.com/DataDonRowam23/Loan-Default-Risk-Analysis/blob/main/WhatsApp%20Image%202026-03-09%20at%2019.38.08.jpeg)
+
+In this project, I explored borrower demographics, loan characteristics, and repayment outcomes to identify the key risk factors that predict loan defaults. 
 
 # Project Overview
 
@@ -18,33 +20,33 @@ The project addresses about the rising default rate on personal loans and gives 
 
 # Table of Contents
 
-Project background
+1.0 Project background
 
-Project Description
+2.0 Project Description
 
-Workflow
+3.0 Workflow
 
-Tech-Stack
+4.0 Tech-Stack
 
-Insights
+5.0 Insights
 
-Recommendations
+6.0 Recommendations
 
 
 # Project:
 
-# Background
+# 1.0 Background
 Horizon Financial Group is a mid-size consumer lending company. Management is concerned about the rising default rate on personal loans and wants data-driven insights to improve the underwriting process.
 
 In this project we will explore borrower demographics, loan characteristics, and repayment outcomes to identify the key risk factors that predict loan defaults.
 
-# Description
+# 2.0 Description
 Horizon Financial Group has issued over 600 personal loans across 2024 and 2025. The company has noticed that roughly 1 in 4 loans are defaulting, which is well above their target of 12%. 
 
 The VP of Risk has asked me to analyse the existing loan book and borrower data to answer key questions about what is driving defaults. 
 My analysis will directly inform changes to their credit scoring model and loan approval thresholds. 
 
-# Workflow
+# 3.0 Workflow
 
 - Imported and Explored (both datasets)
 Loaded both CSVs.
@@ -62,13 +64,13 @@ Identified which numeric variables (credit score, DTI, income, loan amount, inte
 Built charts showing default rate by credit score range, a scatter plot of DTI vs. default status, and a bar chart comparing loan purposes.
 Outcomes
 
-# Tech-Stack:
+# 4.0 Tech-Stack:
 
 Python-Pandas
 
 The whole project workflow steps of code can be accessed [HERE](https://github.com/DataDonRowam23/Loan-Default-Risk-Analysis/blob/main/Loan_Default_Risk_Analysis.ipynb)
 
-# Insights:
+# 5.0 Insights:
 
 Overall Default Rate:
 The overall default rate across all loan applications is 24.29%.
@@ -116,7 +118,7 @@ Years Employed:
 
 Borrowers with less than 2 years of employment have a default rate of **34.52% (n=84), which is notably higher than the overall default rate of 24.29%.
 
-# Recommendations:
+# 6.0 Recommendations:
 
 1. Implement a minimum credit score threshold of 700. Loans to borrowers with credit scores below 700 should be subject to stricter scrutiny or additional qualifying criteria, given the notable increase in default rates below this threshold.
 
